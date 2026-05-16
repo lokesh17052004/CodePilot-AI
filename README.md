@@ -408,6 +408,7 @@ git clone https://github.com/lokesh17052004/codepilot-ai.git
 
 ```bash
 cd codepilot-ai
+cd Multi-Agent AI Coding & Review Platform
 ```
 
 ---
@@ -475,7 +476,7 @@ CREATE DATABASE codepilot;
 # Running the Application
 
 ```bash
-uvicorn main:app --reload --port 8005
+uv run main.py
 ```
 
 ---
