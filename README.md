@@ -408,7 +408,8 @@ git clone https://github.com/lokesh17052004/codepilot-ai.git
 
 ```bash
 cd codepilot-ai
-cd Multi-Agent AI Coding & Review Platform
+Rename the project as "Your-Project"
+cd "Your-Project"
 ```
 
 ---
